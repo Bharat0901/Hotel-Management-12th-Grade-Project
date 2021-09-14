@@ -1,4 +1,4 @@
-# hotel-management-12th-grade-project
+# Hotel-Management-12th-Grade-Project
 a simple program with python using csv for school project.
 
 Our hotel management project, based on the platform developed by Guido van Rossum known as Python, covers the basic necessary functions required in a hotel such as booking a room, ordering food, checking out and displaying the bill.
